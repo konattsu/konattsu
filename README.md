@@ -13,4 +13,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=konattsu&theme=solarized_dark&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=konattsu&theme=solarized_dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=konattsu&theme=tokyonight)
