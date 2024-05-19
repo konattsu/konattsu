@@ -5,6 +5,12 @@
   </a>
 </p>
 
+## Language
+
+- C
+- Python
+- Rust (最近勉強中)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konattsu&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=konattsu&theme=solarized_dark)
