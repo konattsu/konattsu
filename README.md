@@ -9,7 +9,7 @@
 
 - C
 - Python
-- Rust (最近勉強中)
+- Rust
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konattsu&theme=solarized_dark)
